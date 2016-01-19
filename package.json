@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "Devflow",
+  "version": "0.0.1",
+  "description": "ZOOlanders Development Workflow",
+  "copyright": "Copyright (C) Joolanders, SL",
+  "license": "GNU General Public License v2 or later",
+  "authors": [
+    {
+      "name": "ZOOlanders",
+      "email": "info@zoolanders.com",
+      "homepage": "http://zoolanders.com"
+    }
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-git": "^1.6.1",
+    "gulp-sym": "0.0.14",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.0.1",
+    "run-sequence": "^1.1.5"
+  }
+}

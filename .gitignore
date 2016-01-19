@@ -1,0 +1,7 @@
+/node_modules
+/Projects
+/www
+
+.vagrant
+.DS_Store
+.idea
