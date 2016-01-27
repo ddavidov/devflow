@@ -6,7 +6,13 @@ ZOOlanders Development Workflow based on [Joomlatools Vagrant Box](http://develo
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
-3. Clone this repo in a directory of your choice
+3. Clone this repo in a directory of your choice and install npm dependencies:
+
+ ```
+ git clone git@github.com:JOOlanders/devflow.git
+ npm install
+ ```
+
 4. Run the following commands in that directory to download and start the Vagrant box:
 
  ```
